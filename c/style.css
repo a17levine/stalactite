@@ -137,3 +137,11 @@ footer, .section {
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+
+.stalactite-loaded {
+	/*display: none;
+	-moz-box-shadow: 0 0 3px 0 rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 3px 0 rgba(0,0,0,0.5);
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.5);
+	position: relative;*/
+}
